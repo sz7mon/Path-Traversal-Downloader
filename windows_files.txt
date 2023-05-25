@@ -1,0 +1,28 @@
+C:/Autounattend.xml
+C:/inetpub/logs/logfiles
+C:/inetpub/wwwroot
+C:/inetpub/wwwroot/web.config
+C:/nginx-1.7.4conf/nginx.conf
+C:/nginx-1.7.4/nginx.conf
+C:/Program Files/Apache Software Foundation/Apache2.2/conf/httpd.conf
+C:/Program Files/Apache Software Foundation/Apache2.2/logs/access.log
+C:/Program Files/Apache Software Foundation/Apache2.2/logs/error.log
+C:/Unattend.xml
+C:/windows/panther/unattended.xml
+C:/Windows/Panther/Unattended.xml
+C:/Windows/Panther/Unattend.txt
+C:/windows/panther/unattend/unattended.xml
+C:/Windows/Panther/Unattend/Unattended.xml
+C:/windows/repair/SAM
+C:/windows/system32/drivers/etc/hosts
+C:/Windows/System32/drivers/etc/hosts
+C:/Windows/system32/sysprep
+C:/xampp/apache/bin/php.ini
+C:/xampp/apache/conf/httpd.conf
+C:/xampp/apache/logs/access.log
+C:/xampp/apache/logs/error.log
+C:/xampp/security/webdav.htpasswd
+C:/xampp/tomcat/conf/tomcat-users.xml
+C:/xampp/tomcat/conf/web.xml
+C:/xampp/webalizer/webalizer.conf
+C:/xampp/webalizer/webdav.txt
